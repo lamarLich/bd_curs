@@ -52,6 +52,7 @@
     <Compile Include="adminForm.Designer.cs">
       <DependentUpon>adminForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="GitSystemTestClass.cs" />
     <Compile Include="loginForm.cs">
       <SubType>Form</SubType>
     </Compile>
