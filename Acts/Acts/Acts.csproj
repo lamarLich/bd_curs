@@ -73,6 +73,9 @@
     <Compile Include="user2Form.Designer.cs">
       <DependentUpon>user2Form.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="adminForm.resx">
+      <DependentUpon>adminForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="loginForm.resx">
       <DependentUpon>loginForm.cs</DependentUpon>
     </EmbeddedResource>
